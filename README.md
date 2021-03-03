@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Techs: <strong>HTML, CSS, JavaScript, Angular, TypeScript and Python.</strong>
+  🦄 Techs: <strong>HTML, CSS, JavaScript and Python.</strong>
 </p>
 
 <p align="left">
