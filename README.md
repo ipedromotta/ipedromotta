@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-💻 Graduating in computer information systems at <a href="https://www.estacio.br/"><strong>UNESA</strong></a>.
+💻 Graduating in computer information systems at <a href="https://pt.wikipedia.org/wiki/Universidade_Est%C3%A1cio_de_S%C3%A1"><strong>UNESA</strong></a>.
 </p>
 
 <p align="left">
