@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-24 years old student in love with technology with interest in the programming area.
+Hi, I'm a software developer.
 </p>
 
 <p align="left">
@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  🦄 Techs: <strong>HTML, CSS, JavaScript and Python.</strong>
+  🦄 Techs: <strong>HTML, CSS, JavaScript, SQL and Python.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCODE, Pycharm, Photoshop, CorelDraw, Git and GitHub.</strong>
+  💼 Tools: <strong>VSCode, PyCharm, Photoshop, CorelDraw and Git.</strong>
 </p>
 
 <p align="left">
