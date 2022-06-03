@@ -1,4 +1,4 @@
-# Pedro Motta <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Pedro Motta 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
@@ -10,11 +10,15 @@ Hi, I'm a software developer.
 </p>
 
 <p align="left">
-  🦄 Techs: <strong>HTML, CSS, JavaScript, SQL and Python.</strong>
+  🦄 Techs: <strong>Python, JavaScript, SQL, HTML and CSS.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, PyCharm, Photoshop, CorelDraw and Git.</strong>
+  🪄 Frameworks: <strong>ReactJS, Django, Flask and PyQt5.</strong>
+</p>
+
+<p align="left">
+  💼 Tools: <strong>VSCode, Git, AWS, PyCharm, Photoshop and CorelDraw.</strong>
 </p>
 
 <p align="left">
