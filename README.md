@@ -14,11 +14,11 @@ Hi, I'm a software developer.
 </p>
 
 <p align="left">
-  🪄 Frameworks: <strong>ReactJS, Django, Flask and PyQt5.</strong>
+  🪄 Frameworks: <strong>VueJS, Django, Flask and PyQt5.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Git, AWS, PyCharm, Photoshop and CorelDraw.</strong>
+  💼 Tools: <strong>VSCode, Git, PyCharm, Photoshop and CorelDraw.</strong>
 </p>
 
 <p align="left">
