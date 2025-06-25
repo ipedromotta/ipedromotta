@@ -6,23 +6,23 @@ Hi, I'm a software developer.
 </p>
 
 <p align="left">
-💻 Graduating in computer information systems at <a href="https://pt.wikipedia.org/wiki/Universidade_Est%C3%A1cio_de_S%C3%A1"><strong>UNESA</strong></a>.
+💻 I hold a Bachelor's degree in Computer Information Systems and a postgraduate degree in Software Engineering.
 </p>
 
 <p align="left">
-  🦄 Techs: <strong>Python, JavaScript, SQL, HTML and CSS.</strong>
+  🦄 Tech stack: <strong>Python, JavaScript, SQL, HTML, CSS.</strong>
 </p>
 
 <p align="left">
-  🪄 Frameworks: <strong>VueJS, Django, Flask and PyQt5.</strong>
+  🪄 Frameworks & Libraries: <strong>Django, Flask, Vue.js, PyQt5, Bootstrap.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Git, PyCharm, Photoshop and CorelDraw.</strong>
+  💼 Tools & Platforms: <strong>Linux, Git, RabbitMQ, Photoshop, CorelDRAW.</strong>
 </p>
 
 <p align="left">
-  💌 If you want to contact me, you can send a message. ⤵️
+  💌 Feel free to reach out if you'd like to connect or collaborate. ⤵️
 </p>
 
 <p align="left">
