@@ -2,27 +2,27 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-Hi, I'm a software developer.
+Olá! Sou um desenvolvedor de software.
 </p>
 
 <p align="left">
-💻 I hold a Bachelor's degree in Computer Information Systems and a postgraduate degree in Software Engineering.
+💻 Sou bacharel em Sistemas de Informação e pós-graduado em Engenharia de Software.
 </p>
 
 <p align="left">
-  🦄 Tech stack: <strong>Python, JavaScript, SQL, HTML, CSS.</strong>
+  🦄 Tecnologias: <strong>Python, JavaScript, SQL, HTML, CSS.</strong>
 </p>
 
 <p align="left">
-  🪄 Frameworks & Libraries: <strong>Django, Flask, Vue.js, PyQt5, Bootstrap.</strong>
+  🪄 Frameworks e bibliotecas: <strong>Django, Flask, Vue.js, PyQt5, Bootstrap.</strong>
 </p>
 
 <p align="left">
-  💼 Tools & Platforms: <strong>Linux, Git, RabbitMQ, Photoshop, CorelDRAW.</strong>
+  💼 Ferramentas e plataformas: <strong>Linux, Git, RabbitMQ, Photoshop, CorelDRAW.</strong>
 </p>
 
 <p align="left">
-  💌 Feel free to reach out if you'd like to connect or collaborate. ⤵️
+  💌 Sinta-se à vontade para entrar em contato, caso queira colaborar ou bater um papo. ⤵️
 </p>
 
 <p align="left">
