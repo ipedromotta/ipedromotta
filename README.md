@@ -14,11 +14,11 @@ Olá! Sou um desenvolvedor de software.
 </p>
 
 <p align="left">
-  🪄 Frameworks & bibliotecas: <strong>Django, Flask, Vue.js, PyQt5, Bootstrap.</strong>
+  🪄 Frameworks: <strong>Django, Flask, Vue.js, PyQt5, Bootstrap.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas & plataformas: <strong>AWS, Linux, RabbitMQ, Git, Photoshop, CorelDRAW.</strong>
+  💼 Ferramentas: <strong>AWS, Linux, RabbitMQ, Git, Photoshop, CorelDRAW.</strong>
 </p>
 
 <p align="left">
