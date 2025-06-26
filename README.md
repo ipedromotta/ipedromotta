@@ -18,7 +18,7 @@ Olá! Sou um desenvolvedor de software.
 </p>
 
 <p align="left">
-  💼 Ferramentas & plataformas: <strong>Linux, Git, RabbitMQ, Photoshop, CorelDRAW.</strong>
+  💼 Ferramentas & plataformas: <strong>AWS, Linux, RabbitMQ, Git, Photoshop, CorelDRAW.</strong>
 </p>
 
 <p align="left">
