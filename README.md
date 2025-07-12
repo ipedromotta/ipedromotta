@@ -1,12 +1,8 @@
 # Pedro Motta 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left"> 
-Olá! Sou um desenvolvedor de software.
-</p>
-
 <p align="left">
-💻 Sou bacharel em Sistemas de Informação e pós-graduado em Engenharia de Software.
+💻 Desenvolvedor Full Stack com experiência no desenvolvimento de sistemas completos, abrangendo desde interfaces intuitivas até a implementação de lógica de negócios robusta no backend. Bacharel em Sistemas de Informação e pós-graduado em Engenharia de Software.
 </p>
 
 <p align="left">
