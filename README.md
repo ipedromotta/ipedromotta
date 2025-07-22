@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  🪄 Frameworks: <strong>Django, Flask, Vue.js, PyQt5, Bootstrap.</strong>
+  🪄 Frameworks: <strong>Django, FastAPI, Flask, Vue.js, Bootstrap, PyQt5.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>AWS, Linux, RabbitMQ, Git, Photoshop, CorelDRAW.</strong>
+  💼 Ferramentas: <strong>AWS, Linux, Git, RabbitMQ, Photoshop, CorelDRAW.</strong>
 </p>
 
 <p align="left">
